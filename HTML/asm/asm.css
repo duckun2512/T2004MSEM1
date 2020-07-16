@@ -1,0 +1,88 @@
+body {
+    background-color: #010165;
+    margin: 0px;
+}
+
+.header {
+    background-color: #00ffff;
+    text-align: center;
+}
+
+.title-row {
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+}
+
+.instruction-title {
+    display: inline;
+    color: #00ffff;
+    font-size: 18px;
+    font-family: 'Work Sans';
+}
+
+.instruction-row {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.instruction-number {
+    padding-right: 25px;
+    font-family: 'Work Sans';
+    font-size: 36px;
+    color: #00ffff;
+}
+
+.instruction-text {
+    padding: 10px;
+    font-family: 'Work Sans';
+    font-size: 14px;
+    color: white;
+}
+
+.door-row {
+    text-align: center;
+}
+
+.door-frame {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.start-row {
+    margin: auto;
+    width: 120px;
+    height: 43px;
+    font-family: 'Work Sans';
+    background-color: #eb6565;
+    padding-top: 18px;
+    font-size: 18px;
+    text-align: center;
+    color: #010165;
+    margin-bottom: 21px;
+    cursor: pointer;
+}
+
+.instruction-row2, .instruction-row3 {
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+}
+
+.instruction-row3 {
+    width: 100px;
+    border-collapse: separate;
+    border-spacing: 200px 20px;
+}
+
+.instruction-number2 {
+    font-size: 36px;
+    background-color: #00ffff;
+    width: 100px;
+    margin-top: 50px;
+}
+
+.instruction-text2 {
+    font-size: 18px;
+    color: white;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ASM</title>
+    <link rel="stylesheet" href="styles/asm.css">
+</head>
+<body>
+    <div class="header">
+        <img id="text_top" src="images/logo.svg" />
+    </div>
+
+    <div class="title-row">
+        <img src="images/star.svg" />
+        <p class="instruction-title">Instructions</p>
+        <img src="images/star.svg" />
+    </div>
+
+        <table class="instruction-row">
+            <tr>
+                <th class="instruction-number">1</th>
+                <td class="instruction-text">Hiding behind one of these doors is the ChoreBot.</td>
+            </tr>
+            <tr>
+                <th class="instruction-number">2</th>
+                <td class="instruction-text">Your mission is to open all of the doors without
+                running into the ChoreBot.</td>
+            </tr>
+            <tr>
+                <th class="instruction-number">3</th>
+                <td class="instruction-text">If you manage to avoid the ChoreBot until the very last
+                door, you win!</td>
+            </tr>
+            <tr>
+                <th class="instruction-number">4</th>
+                <td class="instruction-text">See if you can score a winning streak!</td>
+            </tr>
+        </table>
+
+    <div class="door-row">
+        <img id="door1" src="images/closed_door.svg"  class="door-frame"/>
+        <img id="door2" src="images/closed_door.svg"  class="door-frame"/>
+        <img id="door3" src="images/closed_door.svg"  class="door-frame"/>
+    </div>
+
+        <div id="start" class="start-row">
+            Good luck!
+        </div>
+
+        <table class="instruction-row2">
+            <tr>
+                <td class="instruction-text2">Current streak:</td>
+                <td class="instruction-text2">Best streak:</td>
+            </tr>
+        </table>
+        <table class="instruction-row3">
+            <tr>
+                <td class="instruction-number2">0</td>
+                <td class="instruction-number2">0</td>
+            </tr>
+        </table>
+
+    <script src="scripts/asm.js"></script>
+</body>
+</html>
