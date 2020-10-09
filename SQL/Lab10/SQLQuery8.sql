@@ -64,7 +64,5 @@ execute sys.sql_modules
 print object_definition(object_id('HeavyToys'))
 go
 
-alter procedure PriceIncrease
-as
-begin
+
 	
