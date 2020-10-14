@@ -50,6 +50,6 @@ public class Date {
     }
 
     public String toString() {
-        return String.format("%02d:%02d:%02d",day,month,year);
+        return String.format("%02d:%02d:%4d",day,month,year);
     }
 }
