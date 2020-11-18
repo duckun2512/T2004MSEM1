@@ -47,11 +47,18 @@ public class Main {
     }
 
     public void save() {
-        Iterator<Student> studentIterator = studentList.iterator();
-        while (studentIterator.hasNext()) {
-            Student st = studentIterator.next();
+        try (
+                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/Exam","root","");
+                Statement stmt = conn.createStatement();
+                ) {
+            Iterator<Student> studentIterator = studentList.iterator();
+            while (studentIterator.hasNext()) {
+                Student st = studentIterator.next();
+                student.addStudent();
+            }
             student.addStudent();
-        } student.addStudent();
+        } catch (SQLException ex) {
+            ex.printStackTrace();
+        }
     }
-
 }
