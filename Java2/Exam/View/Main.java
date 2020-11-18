@@ -3,6 +3,7 @@ package Exam.View;
 import Exam.Controller.StudentController;
 import Exam.Model.Student;
 
+import javax.swing.text.View;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -13,12 +14,14 @@ public class Main {
     Scanner scanner = new Scanner(System.in);
     StudentController student = new StudentController();
     List<Student> studentList = new ArrayList<>();
-    public void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Student List");
         System.out.println("====================================");
+        Main s1 = new Main();
+        s1.menu();
     }
 
-    public void menu(String[] args) {
+    public void menu() {
         Scanner scanner = new Scanner(System.in);
         int choice;
         do {
