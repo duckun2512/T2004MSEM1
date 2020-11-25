@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <name>
+        Duc
+    </name>
+    <gender>
+        Male
+    </gender>
+    <birth>
+        25-12-2000
+    </birth>
+    <email>
+      abc@gmai.com
+    </email>
+</root>
