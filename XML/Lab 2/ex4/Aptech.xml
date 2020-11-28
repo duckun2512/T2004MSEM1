@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FPTAptech xmlns:xs="http://www.w3.org/2001/XMLSchema"
+            xs:schemaLocation="Aptech.xsd">
+    <Student Sex="Female">
+        <Name>
+            <FName>Dinh</FName>
+            <LName>Anh</LName>
+        </Name>
+        <Age>18</Age>
+    </Student>
+    <Student Sex="Female">
+        <Name>
+            <FName>Phan</FName>
+            <LName>Tu</LName>
+        </Name>
+        <Age>22</Age>
+    </Student>
+    <Student Sex="Male">
+        <Name>
+            <FName>Kiet</FName>
+            <LName>Do</LName>
+        </Name>
+        <Age>15</Age>
+    </Student>
+</FPTAptech>
