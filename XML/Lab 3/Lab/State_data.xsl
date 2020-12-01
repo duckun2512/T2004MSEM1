@@ -29,8 +29,6 @@
     </xsl:template>
 
     <xsl:template match="state">
-        <xsl:for-each select="area">
-        <xsl:sort/>
         <tr>
             <td>
                 <xsl:value-of select="name"/>
@@ -51,7 +49,6 @@
                 <xsl:apply-templates select="area"/>
             </td>
         </tr>
-        </xsl:for-each>
     </xsl:template>
 
     <xsl:template match="population">
@@ -77,4 +74,5 @@
         <xsl:text> </xsl:text>
         <xsl:value-of select="@units"/>
     </xsl:template>
+
 </xsl:stylesheet>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="DIY2.xsl"?>
+
+<Infos>
+    <Info>
+        <name>David Blake</name>
+        <age>32</age>
+        <commission>500</commission>
+    </Info>
+    <Info>
+        <name>Susan Jones</name>
+        <age>55</age>
+        <commission>5000</commission>
+    </Info>
+    <Info>
+        <name>Martin Howell</name>
+        <age>25</age>
+        <commission>0</commission>
+    </Info>
+    <Info>
+        <name>Tony Kemp</name>
+        <age>35</age>
+        <commission>5000</commission>
+    </Info>
+</Infos>
