@@ -1,0 +1,7 @@
+C:\Users\shyri\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\shyri\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\shyri\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\shyri\source\repos\Test\Test\obj\Debug\GeometryExample(Ex 1).csprojAssemblyReference.cache
+C:\Users\shyri\source\repos\Test\Test\obj\Debug\GeometryExample(Ex 1).csproj.CoreCompileInputs.cache
+C:\Users\shyri\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\shyri\source\repos\Test\Test\obj\Debug\Test.pdb

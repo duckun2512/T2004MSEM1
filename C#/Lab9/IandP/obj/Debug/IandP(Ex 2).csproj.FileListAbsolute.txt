@@ -1,0 +1,7 @@
+C:\Users\shyri\source\repos\Test\IandP\bin\Debug\IandP.exe.config
+C:\Users\shyri\source\repos\Test\IandP\bin\Debug\IandP.exe
+C:\Users\shyri\source\repos\Test\IandP\bin\Debug\IandP.pdb
+C:\Users\shyri\source\repos\Test\IandP\obj\Debug\IandP(Ex 2).csprojAssemblyReference.cache
+C:\Users\shyri\source\repos\Test\IandP\obj\Debug\IandP(Ex 2).csproj.CoreCompileInputs.cache
+C:\Users\shyri\source\repos\Test\IandP\obj\Debug\IandP.exe
+C:\Users\shyri\source\repos\Test\IandP\obj\Debug\IandP.pdb
