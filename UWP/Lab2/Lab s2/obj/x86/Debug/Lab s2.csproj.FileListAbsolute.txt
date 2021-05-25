@@ -1,0 +1,50 @@
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\App.xbf
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\MainPage.xbf
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Pages\Splitview.xbf
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Lab s2.xr.xml
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Lab s2.exe
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Lab s2.pdb
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\resources.pri
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\AppxManifest.xml
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Core\Lab s2.exe
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Lab s2.build.appxrecipe
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\System.Runtime.dll
+C:\Users\shyri\source\repos\UWP1\Lab s2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\App.g.i.cs
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\App.g.cs
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\MainPage.g.cs
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Pages\Splitview.g.i.cs
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Pages\Splitview.g.cs
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\App.xaml
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\MainPage.xaml
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Pages\Splitview.xaml
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\App.xbf
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\MainPage.xbf
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Pages\Splitview.xbf
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Lab s2.csproj.CoreCompileInputs.cache
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Lab s2.csproj.CopyComplete
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Lab s2.exe
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Lab s2.pdb
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\priconfig.xml
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\resources.resfiles
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\pri.resfiles
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\qualifiers.txt
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+C:\Users\shyri\source\repos\UWP1\Lab s2\obj\x86\Debug\Lab s2.csprojAssemblyReference.cache

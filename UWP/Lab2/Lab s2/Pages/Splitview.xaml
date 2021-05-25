@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="Lab_s2.Pages.Splitview"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:models="using:Lab_s2.Models"
+    xmlns:local="using:Lab_s2.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        
+
+        <SplitView x:Name="SV" DisplayMode="CompactInline" HorizontalAlignment="Left"
+               IsPaneOpen="False" OpenPaneLength="250">
+            <SplitView.Pane>
+                <RelativePanel Grid.Row="0" Grid.Column="0">
+                    <Button VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click">Menu</Button>
+                    <TextBox x:Name="input1" Width="250" Height="40" RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="0,50,0,0" Text="Email" TextWrapping="Wrap"/>
+                    <TextBox x:Name="input2" Width="250" Height="40" RelativePanel.Below="input1" RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="0,50,0,0" Text="Header" TextWrapping="Wrap" />
+                    <TextBlock Margin="0,50,0,0" x:Name="input3" RelativePanel.Below="input2" RelativePanel.AlignHorizontalCenterWithPanel="True" Text="Content" Width="250" Height="100" TextWrapping="Wrap"/>
+                    <Button Click="Button_Click1" Content="Submit" Width="250px" RelativePanel.Below="input3" RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="0,50,0,0"/>
+                </RelativePanel>
+            </SplitView.Pane>
+            <ScrollViewer Margin="10">
+                <ListView x:Name="ListEmail" Loaded="ListEmails_Loaded">
+                    <ListView.Header>
+                        <TextBlock Text="Danh sách Email"/>
+                    </ListView.Header>
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="models:Emails">
+                            <StackPanel>
+                                <TextBlock Text="{x:Bind Email}"/>
+                                <TextBlock Text="{x:Bind Header}"/>
+                                <TextBlock Text="{x:Bind Content}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ScrollViewer>
+        </SplitView>
+    </Grid>
+</Page>
