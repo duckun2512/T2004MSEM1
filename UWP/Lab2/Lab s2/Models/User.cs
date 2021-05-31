@@ -6,30 +6,29 @@ using System.Threading.Tasks;
 
 namespace Lab_s2.Models
 {
-    class Emails
+    class User
     {
-        private string header;
         private string email;
+        private string title;
         private string content;
 
-        public Emails(string header, string email, string content)
+        public User(string email, string title, string content)
         {
-            Header = header;
             Email = email;
+            Title = title;
             Content = content;
         }
 
-        public string Email // properties
+        public string Email
         {
             get => email;
             set => email = value;
         }
-        public string Header
+        public string Title
         {
-            get => header;
-            set => header = value;
+            get => title;
+            set => title = value;
         }
-
         public string Content
         {
             get => content;
