@@ -15,6 +15,8 @@ using Windows.UI.Xaml.Navigation;
 using Windows.ApplicationModel;
 using Newtonsoft.Json;
 using Practical.Models;
+using System.Threading.Tasks;
+using Windows.Storage;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -28,22 +30,21 @@ namespace Practical.Pages1
         public BlankPage1()
         {
             this.InitializeComponent();
-            employeeList = new ListView();
-            this.LoadJson();
+            Employee_GetData();
         }
 
-        public void LoadJson()
+        public static async Task<string> ReadFile(string fileName)
         {
-            string FilePath = Path.Combine(Package.Current.InstalledLocation.Path, "employee.json");
-            using (StreamReader file = File.OpenText(FilePath))
-            {
-                var json = file.ReadToEnd();
-                Dictionary<string, object> result = JsonConvert.DeserializeObject<Dictionary<string, object>>(json);
-                string employee1 = result["employee"].ToString();
-                List<Employee> objResponse = JsonConvert.DeserializeObject<List<Employee>>(employee1);
-                employeeList.ItemsSource = objResponse;
-                System.Diagnostics.Debug.WriteLine(Package.Current.InstalledLocation.Path);
-            }
+            var storage = Windows.Storage.ApplicationData.Current.LocalFolder;
+            var demoFile = await storage.CreateFileAsync(fileName, Windows.Storage.CreationCollisionOption.OpenIfExists);
+            return await FileIO.ReadTextAsync(demoFile);
+        }
+
+        private async void Employee_GetData()
+        {
+            string jsonString = await ReadFile("employee.json");
+            EmployeeList employees = JsonConvert.DeserializeObject<EmployeeList>(jsonString);
+            employeeList.ItemsSource = employees.employee_list;
         }
     }
 }

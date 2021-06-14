@@ -11,8 +11,11 @@ namespace Practical.Models
         public string name { get; set; }
         public string role { get; set; }
         public string birthyear { get; set; }
-        public List<Employee> employeeLists { get; set; }
+
     }
 
-
+    public class EmployeeList
+    {
+        public List<Employee> employee_list { get; set; }
+    }
 }

@@ -49,3 +49,15 @@ C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.g.i.cs
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.g.cs
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.xaml
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.xbf
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q2.g.i.cs
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q2.g.cs
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q2.xaml
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q2.xbf
+C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Pages1\Q2.xbf
+C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\SQLitePCL.dll
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\resources.en.resfiles
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\resources.en.resfiles.intermediate
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\SQLitePCL.Ext.pri.xml
