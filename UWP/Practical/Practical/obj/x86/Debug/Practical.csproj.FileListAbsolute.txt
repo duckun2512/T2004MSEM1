@@ -3,17 +3,12 @@ C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\App.g.i.cs
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\App.g.cs
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\MainPage.g.i.cs
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\MainPage.g.cs
-C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages\Question1.g.i.cs
-C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages\Question1.g.cs
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\App.xaml
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\MainPage.xaml
-C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages\Question1.xaml
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\App.xbf
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\MainPage.xbf
-C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages\Question1.xbf
 C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\App.xbf
 C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\MainPage.xbf
-C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Pages\Question1.xbf
 C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Practical.xr.xml
 C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Practical.exe
 C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Practical.pdb
@@ -49,3 +44,8 @@ C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\qualifiers.txt.int
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112750540000000.json
+C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Pages1\Q1.xbf
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.g.i.cs
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.g.cs
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.xaml
+C:\Users\shyri\source\repos\Practical\Practical\obj\x86\Debug\Pages1\Q1.xbf

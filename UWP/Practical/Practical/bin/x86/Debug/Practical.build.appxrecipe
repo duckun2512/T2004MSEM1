@@ -76,8 +76,8 @@
     <AppxPackagedFile Include="C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Pages\Question1.xbf">
-      <PackagePath>Pages\Question1.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\shyri\source\repos\Practical\Practical\bin\x86\Debug\Pages1\Q1.xbf">
+      <PackagePath>Pages1\Q1.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
