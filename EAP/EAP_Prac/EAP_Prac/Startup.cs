@@ -19,6 +19,8 @@ namespace EAP_Prac
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+                        
+            services.AddTransient<Models.EAP_PracContext, Models.EAP_PracContext>();
 
             services.AddSwaggerGen(c =>
             {
