@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace EAP_Prac.Models
 {
-    public partial class T2004E_PracticalEAPContext : DbContext
+    public partial class EAP_PracContext : DbContext
     {
-        public T2004E_PracticalEAPContext()
+        public EAP_PracContext()
         {
         }
 
-        public T2004E_PracticalEAPContext(DbContextOptions<T2004E_PracticalEAPContext> options)
+        public EAP_PracContext(DbContextOptions<EAP_PracContext> options)
             : base(options)
         {
         }
