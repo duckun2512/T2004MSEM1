@@ -5,17 +5,17 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Practical_ASP1.Models;
+using EAP_Prac.Models;
 
-namespace Practical_ASP1.Controllers
+namespace EAP_Prac.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EmployeesController : ControllerBase
+    public class EmployeeController : ControllerBase
     {
-        private readonly Practical_ASPContext _context;
+        private readonly EAP_PracContext _context;
 
-        public EmployeesController(Practical_ASPContext context)
+        public EmployeeController(EAP_PracContext context)
         {
             _context = context;
         }
