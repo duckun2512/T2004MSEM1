@@ -174,7 +174,7 @@
       <Version>6.2.10</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>13.0.1</Version>
+      <Version>13.0.2</Version>
     </PackageReference>
     <PackageReference Include="SQLitePCL">
       <Version>3.8.7.2</Version>
